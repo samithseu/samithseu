@@ -4,6 +4,8 @@ Actually a 4<sup>th</sup> year IT student studying at <a target="_blank" href="h
 
 Most of the time, I love building frontend of a website and currently learning backend as well.
 
+![](https://komarev.com/ghpvc/?username=samithseu&color=27CFFC&style=for-the-badge)
+
 ---
 
 Website: <a href="https://samithseu.netlify.app">samithseu.netlify.app</a>
