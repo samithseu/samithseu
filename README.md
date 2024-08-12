@@ -1,4 +1,4 @@
-<p align="center"><img width=240 src="name.svg" alt="Samith Seu"/></p>
+<p align="left"><img width=280 src="name.svg" alt="Samith Seu"/></p>
 
 Actually a 4<sup>th</sup> year IT student studying at <a target="_blank" href="https://www.facebook.com/brachnasastraBTI">@BTI <img height="24pt" src="bti-logo-bw.png" /></a>
 
