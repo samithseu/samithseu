@@ -6,4 +6,4 @@ Most of the time, I love building <b>FRONT-END</b> of a website and currently le
 
 ---
 
-Website: <a href="https://samithseu.netlify.app">samithseu.netlify.app</a>
+Website: <a href="https://samithseu.vercel.app">samithseu.vercel.app</a>
