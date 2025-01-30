@@ -1,4 +1,4 @@
-<p align="left"><img width=320 src="name.svg" alt="Samith Seu in SVG"/></p>
+<p align="center"><img width=320 src="name.svg" alt="Samith Seu in SVG"/></p>
 
 I love building <b>frontend</b> stuff using <b>Vue.JS</b> and currently learning backend as well.
 
