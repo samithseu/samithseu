@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-  👉 <a href="https://samithseu.vercel.app">Personal Website</a>
+  👉 <a href="https://www.samith.info">Personal Website</a>
 </p>
