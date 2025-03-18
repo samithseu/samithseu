@@ -1,7 +1,7 @@
 <p align="center"><img width=320 src="imgs/name.svg" alt="Samith Seu - ស៊ឺ សាមីត"/></p>
 
 <p align="center">
-  I love building <b>frontend</b> stuff using <b>Vue.JS</b> and currently learning backend as well.
+  I love building <b>frontend</b> of a website using <b>Vue.JS</b> and progressively learning backend as well.
 </p>
 
 <p align="center">
