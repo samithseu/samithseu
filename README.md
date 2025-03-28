@@ -1,7 +1,8 @@
-<p align="center"><img width=320 src="imgs/name.svg" alt="Samith Seu - ស៊ឺ សាមីត"/></p>
+<h1 align="center"><img width=320 src="imgs/name.svg" alt="Samith Seu - ស៊ឺ សាមីត"/></h1>
 
 <p align="center">
-  I love building <b>frontend</b> of a website using <b>Vue.JS</b> and progressively learning backend as well.
+  Hi there, <img height=18 src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" alt="Hi GIF"/><br/>
+ I am a fresh-graduate IT student <br/> who loves crafting <b>UI/Frontend</b> on websites using <b>React/Vue</b> and progressively learning backend as well.
 </p>
 
 <p align="center">
@@ -20,5 +21,5 @@
 </p>
 
 <p align="center">
-  👉 <a href="https://www.samith.info">Personal Website</a>
+  👉 More info about me on <a href="https://www.samith.info">my website</a>
 </p>
