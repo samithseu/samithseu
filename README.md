@@ -1,8 +1,10 @@
-<h1 align="center"><img width=320 src="imgs/name.svg" alt="Samith Seu - ស៊ឺ សាមីត"/></h1>
+<p align="center">
+  <img width=320 src="imgs/name.svg" alt="Samith Seu - ស៊ឺ សាមីត"/>
+</p>
 
 <p align="center">
-  Hi there, <img height=18 src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" alt="Hi GIF"/><br/>
- I am a fresh-graduate IT student <br/> who loves crafting <b>UI/Frontend</b> on websites using <b>React/Vue</b> and progressively learning backend as well.
+ Hi, there <img height=18 src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" alt="Hi GIF"/> <br/>
+I am a fresh-graduate IT student <br/> who loves crafting <b>UI/Frontend</b> on websites using <b>React/Vue</b> and progressively learning backend as well.
 </p>
 
 <p align="center">
@@ -16,11 +18,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img hspace="5"  title="JavaScript" height=28 src="imgs/JavascriptFill.svg" alt="JavaScript" /></a>
   <a href="https://react.dev/"><img hspace="5"  title="React.JS" height=30 src="imgs/React.svg" alt="React.JS" /></a>
   <a href="https://vuejs.org/"><img hspace="5"  title="Vue.JS" height=30 src="imgs/Vue.svg" alt="Vue.JS" /></a>
-  <a href="https://astro.build/"><img hspace="5"  title="Astro.JS" height=30 src="imgs/astro-logo.svg" alt="Astro.JS" /></a>
+  <a href="https://astro.build/"><img hspace="5"  title="Astro.JS" height=28 src="imgs/astro-logo.svg" alt="Astro.JS" /></a>
   <a href="https://nuxt.com/"><img hspace="5"  title="Nuxt.JS" height=30 src="imgs/SimpleIconsNuxt.svg" alt="Nuxt.JS" /></a>
   <a href="https://laravel.com/"><img hspace="5"  title="Laravel" height=28 src="imgs/Laravel.svg" alt="Laravel" /></a>
 </p>
 
 <p align="center">
-  👉 More info about me on <a href="https://www.samith.info">my website</a>
+  👉 Personal site: <a href="https://www.samith.info">samith.info</a>
 </p>
