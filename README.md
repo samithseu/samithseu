@@ -1,10 +1,10 @@
-<p align="center">
-  <img width=320 src="imgs/name.svg" alt="Samith Seu - ស៊ឺ សាមីត"/>
-</p>
+<h1 align="center">
+  Hello! <img height=36 src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" alt="Hi GIF"/>
+</h1>
 
 <p align="center">
- Hi, there <img height=18 src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" alt="Hi GIF"/> <br/>
-I am a fresh-graduate IT student <br/> who loves crafting <b>UI/Frontend</b> on websites using <b>React/Vue</b> and progressively learning backend as well.
+  <img width=240 src="imgs/name.svg" alt="Samith Seu - ស៊ឺ សាមីត"/> <br/>
+  <span>I am a fresh-graduate IT student <br/> who loves crafting <b>UI/Frontend</b> on websites using <b>React/Vue</b> and progressively learning backend as well.</span>
 </p>
 
 <p align="center">
