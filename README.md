@@ -4,7 +4,7 @@
 
 <p align="center">
   <img width=240 src="imgs/name.svg" alt="Samith Seu - ស៊ឺ សាមីត"/> <br/>
-  <span>I loves crafting <b>UI/Frontend</b> on websites using <b>React/Vue</b> and progressively learning backend as well.</span>
+  <span>I love crafting <b>UI/Frontend</b> on websites using <b>React/Vue</b> and progressively learning backend as well.</span>
 </p>
 
 <p align="center">
