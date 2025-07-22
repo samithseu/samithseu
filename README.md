@@ -24,5 +24,5 @@
 </p>
 <!-- ADDITIONAL LINKS -->
 <p align="center">
-  👉 Personal site: <a href="https://www.samith.info" title="samith.info">samith.info</a>
+  👉 Personal site: <a href="https://samith.info" title="samith.info">samith.info</a>
 </p>
