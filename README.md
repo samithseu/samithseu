@@ -4,7 +4,7 @@
 </h2>
 <!-- BRIEF INFO -->
 <p align="center">
-  <span>I love crafting <b>UI/Frontend</b> on websites using <b>React/Vue</b> and progressively learning backend as well 😃</span>
+  <span>I love crafting <b>UI/Frontend</b> on websites using <b>React/Vue</b> and progressively learning backend as well :)</span>
 </p>
 <!-- LANGUAGE STATS -->
 <p align="center">
