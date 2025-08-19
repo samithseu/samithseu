@@ -13,15 +13,15 @@
 </p>
 <!-- TECHNOLOGIES I LIKE -->
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img hspace="5"  title="CSS" height=30 src="https://test-nuxt-v4.vercel.app/logos/css.svg" alt="CSS" /></a>
-  <a href="https://tailwindcss.com/"><img hspace="5"  title="Tailwind CSS" height=30 src="https://test-nuxt-v4.vercel.app/logos/tailwindcss.svg" alt="Tailwind CSS" /></a>
-  <a href="https://www.typescriptlang.org/"><img hspace="5"  title="TypeScript" height=30 src="https://test-nuxt-v4.vercel.app/logos/typescript.svg" alt="TypeScript" /></a>
-  <a href="https://react.dev/"><img hspace="5"  title="React.JS" height=30 src="https://test-nuxt-v4.vercel.app/logos/react.svg" alt="React.JS" /></a>
-  <a href="https://vuejs.org/"><img hspace="5"  title="Vue.JS" height=30 src="https://test-nuxt-v4.vercel.app/logos/vue.svg" alt="Vue.JS" /></a>
-  <a href="https://astro.build/"><img hspace="5"  title="Astro.JS" height=30 src="https://test-nuxt-v4.vercel.app/logos/astro.svg" alt="Astro.JS" /></a>
-  <a href="https://nuxt.com/"><img hspace="5"  title="Nuxt.JS" height=30 src="https://test-nuxt-v4.vercel.app/logos/nuxt.svg" alt="Nuxt.JS" /></a>
-  <a href="https://laravel.com/"><img hspace="5"  title="Laravel" height=30 src="https://test-nuxt-v4.vercel.app/logos/laravel.svg" alt="Laravel" /></a>
-  <a href="https://flutter.dev/"><img hspace="5"  title="Flutter" height=30 src="https://test-nuxt-v4.vercel.app/logos/flutter.svg" alt="Flutter" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img hspace="5"  title="CSS" height=28 src="https://samith.info/logos/css.svg" alt="CSS" /></a>
+  <a href="https://tailwindcss.com/"><img hspace="5"  title="Tailwind CSS" height=28 src="https://samith.info/logos/tailwindcss.svg" alt="Tailwind CSS" /></a>
+  <a href="https://www.typescriptlang.org/"><img hspace="5"  title="TypeScript" height=28 src="https://samith.info/logos/typescript.svg" alt="TypeScript" /></a>
+  <a href="https://react.dev/"><img hspace="5"  title="React.JS" height=28 src="https://samith.info/logos/react.svg" alt="React.JS" /></a>
+  <a href="https://vuejs.org/"><img hspace="5"  title="Vue.JS" height=28 src="https://samith.info/logos/vue.svg" alt="Vue.JS" /></a>
+  <a href="https://astro.build/"><img hspace="5"  title="Astro.JS" height=28 src="https://samith.info/logos/astro.svg" alt="Astro.JS" /></a>
+  <a href="https://nuxt.com/"><img hspace="5"  title="Nuxt.JS" height=28 src="https://samith.info/logos/nuxt.svg" alt="Nuxt.JS" /></a>
+  <a href="https://laravel.com/"><img hspace="5"  title="Laravel" height=28 src="https://samith.info/logos/laravel.svg" alt="Laravel" /></a>
+  <a href="https://flutter.dev/"><img hspace="5"  title="Flutter" height=28 src="https://samith.info/logos/flutter.svg" alt="Flutter" /></a>
 </p>
 <!-- ADDITIONAL LINKS -->
 <p align="center">
