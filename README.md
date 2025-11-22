@@ -1,6 +1,6 @@
 <!-- GREETING -->
 <h2 align="center">
-  Hello! <img height=26 src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" alt="Waving hand GIF"/>
+  Hello! 👋
 </h2>
 <!-- BRIEF INFO -->
 <p align="center">
