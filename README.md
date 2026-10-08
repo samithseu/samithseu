@@ -11,27 +11,37 @@
 <p align="center">
   <picture>
     <source
-      media="(prefers-color-scheme: light)"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       srcset="
-        https://github-readme-stats-five-ruby-48.vercel.app/api?username=samithseu&show_icons=true&title_color=00D0FF&icon_color=00D0FF&border_color=38DBFF&text_color=000000&hide_title=true&border_radius=12&bg_color=00000000&rank_icon=github
+        https://github-readme-stats-five-ruby-48.vercel.app/api?username=samithseu&show_icons=true&title_color=00D0FF&icon_color=00D0FF&border_color=38DBFF&text_color=000000&hide_title=true&border_radius=12&bg_color=FFFFFF&rank_icon=github#gh-light-mode-only
+      "
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-stats-five-ruby-48.vercel.app/api?username=samithseu&show_icons=true&title_color=27CFFC&icon_color=27CFFC&border_color=1C5062&text_color=FFFFFF&hide_title=true&border_radius=12&bg_color=0D1117&rank_icon=github#gh-dark-mode-only
       "
     />
     <img
-      src="https://github-readme-stats-five-ruby-48.vercel.app/api?username=samithseu&show_icons=true&title_color=27CFFC&icon_color=27CFFC&border_color=1C5062&text_color=FFFFFF&hide_title=true&border_radius=12&bg_color=00000000&rank_icon=github"
-      alt="GitHub Profile Stats"
+      src="https://github-readme-stats-five-ruby-48.vercel.app/api?username=samithseu&show_icons=true&hide_title=true"
     />
   </picture>
 
   <picture>
     <source
-      media="(prefers-color-scheme: light)"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
       srcset="
-        https://github-readme-stats-five-ruby-48.vercel.app/api/top-langs/?username=samithseu&layout=compact&border_color=38DBFF&text_color=000000&title_color=00D0FF&border_radius=12&bg_color=00000000&hide=html,blade,vue,php,cmake&langs_count=6
+        https://github-readme-stats-five-ruby-48.vercel.app/api/top-langs/?username=samithseu&layout=compact&border_color=38DBFF&text_color=000000&title_color=00D0FF&border_radius=12&bg_color=FFFFFF&hide=html,blade,vue,php,cmake&langs_count=6#gh-light-mode-only
+      "
+    />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="
+        https://github-readme-stats-five-ruby-48.vercel.app/api/top-langs/?username=samithseu&layout=compact&border_color=1C5062&text_color=FFFFFF&title_color=27CFFC&border_radius=12&bg_color=0D1117&hide=html,blade,vue,php,cmake&langs_count=6#gh-dark-mode-only
       "
     />
     <img
-      src="https://github-readme-stats-five-ruby-48.vercel.app/api/top-langs/?username=samithseu&layout=compact&border_color=1C5062&text_color=27CFFC&title_color=27CFFC&border_radius=12&bg_color=00000000&hide=html,blade,vue,php,cmake&langs_count=6"
-      alt="GitHub Top Lang"
+      src="https://github-readme-stats-five-ruby-48.vercel.app/api/top-langs/?username=samithseu&layout=compact"
     />
   </picture>
 </p>
